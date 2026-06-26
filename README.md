@@ -1,1 +1,2 @@
 # customer-charun-analysis-
+Customer Churn Analysis is a data analytics project that focuses on identifying customers who are likely to stop using a company's products or services. The main objective is to analyze customer behavior, demographics, service usage patterns, and other relevant factors to understand the reasons behind customer attrition. By applying .
